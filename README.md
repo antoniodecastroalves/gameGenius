@@ -18,8 +18,7 @@ Projeto recriando o Jogo Gênesis utilizando apenas HTML, CSS e Javascript de fo
 ## 🎨 Layout
 
 <p align="center">
-    ![gameGenius](https://user-images.githubusercontent.com/47957363/151136200-9498c6ab-9ddd-4abc-a29c-940beeb5443d.jpg)
-    <img alt="Jogo Genius" title="#Jogo Genius" src="![gameGenius](https://user-images.githubusercontent.com/47957363/151136200-9498c6ab-9ddd-4abc-a29c-940beeb5443d.jpg)" width="720px" />
+    <img alt="Jogo Genius" title="#Jogo Genius" src="https://user-images.githubusercontent.com/47957363/151136200-9498c6ab-9ddd-4abc-a29c-940beeb5443d.jpg" width="720px" />
     
 </p>  
 <br>
